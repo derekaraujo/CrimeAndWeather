@@ -1,6 +1,8 @@
 # Sunny with a Chance of Murder
 ## Data Munging and Analysis with NYC Weather and Crime Data Sets
 
+![](crime_plot.png)
+
 This notebook is another self-contained, just-for-fun side project to use public data sets (NYC crime data and weather data) to examine the following questions:
 
   1. What connections can we find between crime rates and weather?  Do crime rates rise with rising  average daily temperature?
