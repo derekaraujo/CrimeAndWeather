@@ -2,6 +2,7 @@
 ## Data Munging and Analysis with NYC Weather and Crime Data Sets
 
 ![](crime_plot.png)
+![](gaussian_fits.png)
 
 This notebook is another self-contained, just-for-fun side project to use public data sets (NYC crime data and weather data) to examine the following questions:
 
