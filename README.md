@@ -1,8 +1,13 @@
 # Sunny with a Chance of Murder
 ## Data Munging and Analysis with NYC Weather and Crime Data Sets
 
-![](crime_plot.png)
-![](gaussian_fits.png)
+
+<p align='center'>
+<img src='crime_plot.png' width='350'>
+</p>
+<p align='center'>
+<img src='gaussian_fits.png' width='350'>
+</p>
 
 This notebook is another self-contained, just-for-fun side project to use public data sets (NYC crime data and weather data) to examine the following questions:
 
