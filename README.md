@@ -3,10 +3,10 @@
 
 
 <p align='center'>
-<img src='crime_plot.png' width='350'>
+<img src='crime_plot.png' width='500'>
 </p>
 <p align='center'>
-<img src='gaussian_fits.png' width='350'>
+<img src='gaussian_fits.png' width='600'>
 </p>
 
 This notebook is another self-contained, just-for-fun side project to use public data sets (NYC crime data and weather data) to examine the following questions:
